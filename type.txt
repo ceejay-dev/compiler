@@ -1,0 +1,17 @@
+boolean
+byte
+short
+int
+long
+float
+double
+char
+Interface
+Array
+Enum
+String
+Integer
+Double
+Float
+Character
+Boolean
